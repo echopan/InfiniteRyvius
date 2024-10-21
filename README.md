@@ -24,9 +24,9 @@
 
 ## 截图
 
-<p align="center">
-<img src="./img1.jpg" alt="截图1" style="max-width:50%">
-<img src="./img2.jpg" alt="截图2" style="max-width:50%">
+<p>
+<img src="./img1.jpg" alt="截图1" style="width:40%">
+<img src="./img2.jpg" alt="截图2" style="width:40%">
 </p>
 
 ## 源项目 | 字幕来源
